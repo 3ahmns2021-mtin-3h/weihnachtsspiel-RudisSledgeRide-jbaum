@@ -11,7 +11,7 @@ WebGL, Ref,Res 960x600, screen independent, VR Device incl. reference resolution
 
 ### Visuals: 
 <div>
-    <img src="./Screenshots/Game_screenshot" width="800">
+    <img src="./Screenshots/Game_screenshot.png" width="800">
 </div>
 
 ### Necessary setup/execution steps: 
