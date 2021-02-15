@@ -10,7 +10,9 @@ Rudi der Wichtel rutscht mit seinem Schlitten die Schneebahn hinunter und muss a
 WebGL, Ref,Res 960x600, screen independent, VR Device incl. reference resolution 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+    <img src="./Screenshots/Game_screenshot" width="800">
+</div>
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
