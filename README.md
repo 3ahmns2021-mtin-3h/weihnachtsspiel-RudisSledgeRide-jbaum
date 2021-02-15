@@ -1,7 +1,7 @@
 # weihnachtsspiel-RudisSledgeRide-jbaum
 
 ### Project description: 
-Introduction/Project summary 
+Rudi der Wichtel rutscht mit seinem Schlitten die Schneebahn hinunter und muss auf dem Weg zum Weihnachtsmann noch die verlorenen Geschenke einsammeln. Dabei muss er einigen Hindernissen wie beispielsweise Bäumen und Steinen ausweichen (schlechte Objekte). Falls er mit einem schlechten Objekt, wie zum Beispiel einem Baum kollidiert, verliert er jeweils eines der bereits eingesammelten Geschenke. Links oben im Eck ist ein Counter, der die eingesammelten Geschenke zählt und ein Timer, bei dem die verbleibende Zeit angezeigt wird. Nach Ablauf der Zeit (1 Minute) werden alle Geschenke gezählt, die Rudi mit seinem Schlitten eingesammelt und nicht verloren hat.
 
 ### Development platform: 
 (Windows, Unity 2020.1.15f1, Visual Studio 2019, used SDKs)
@@ -24,5 +24,7 @@ mvp
 ### Limitations: 
 
 ### Lessons Learned: 
+
+C# (timer, if statements, Player movement, Scene Controll, Drop Controll)
 
 Copyright by jbaum
