@@ -5,11 +5,11 @@ Rudi the elf slides down the snow track on his sledge and has to collect the los
 
 
 ### Bullet Points MVP:
--2D Projekt screen-independent (960x600)
--Player horizontal bewegen
--Timer 1 Minute (Ende des Spiels)
--Gute und schlechte Objekte spawnen
--Score display
+- 2D Projekt screen-independent (960x600)
+- Player horizontal bewegen
+- Timer 1 Minute (Ende des Spiels)
+- Gute und schlechte Objekte spawnen
+- Score display
 
 ### Development platform: 
 (Windows, Unity 2020.1.15f1, Visual Studio 2019, used SDKs)
