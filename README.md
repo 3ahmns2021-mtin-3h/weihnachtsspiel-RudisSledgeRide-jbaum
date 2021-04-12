@@ -3,6 +3,14 @@
 ### Project description: 
 Rudi the elf slides down the snow track on his sledge and has to collect the lost presents on his way to Father Christmas. In doing so, he has to avoid some obstacles such as trees and stones (bad objects). If he collides with a bad object, such as a tree, he loses one of the presents he has already collected. In the top left corner there is a counter that counts the collected gifts and a timer that shows the remaining time. After the time has expired (1 minute), all the presents that Rudi has collected with his sledge and not lost are counted.
 
+
+### Bullet Points MVP:
+-2D Projekt screen-independent (960x600)
+-Player horizontal bewegen
+-Timer 1 Minute (Ende des Spiels)
+-Gute und schlechte Objekte spawnen
+-Score display
+
 ### Development platform: 
 (Windows, Unity 2020.1.15f1, Visual Studio 2019, used SDKs)
 
